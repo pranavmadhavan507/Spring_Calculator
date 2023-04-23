@@ -279,5 +279,3 @@ button  = customtkinter.CTkButton(master = frame, text = "Calculate", command = 
 button.pack(pady = 30)
 
 root.mainloop()
-
-print()
